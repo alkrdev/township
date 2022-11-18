@@ -1,0 +1,2006 @@
+[
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "BuildTitle": "(L109) T11/GP-A05",
+        "Map": "11",
+        "Worship": "Terran",
+        "Areas": [
+            {
+                "Name": "Grasslands",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 170,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 21,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 30,
+                        "Tier": 1
+                    }
+                ]
+            },            
+            {
+                "Name": "Forest",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 62,
+                        "Tier": 6
+                    },                    
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 114,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Orchard",
+                        "Amount": 100,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    },                    
+                    {
+                        "Type": "School",
+                        "Amount": 13,
+                        "Tier": 3
+                    },                    
+                    {
+                        "Type": "Town Hall",
+                        "Amount": 139,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Library",
+                        "Amount": 43,
+                        "Tier": 1
+                    },                    
+                    {
+                        "Type": "Trading Post",
+                        "Amount": 60,
+                        "Tier": 1
+                    }
+                ]
+            },
+            {
+                "Name": "Desert",
+                "Buildings": [
+                    {   
+                        "Type": "Miner", 
+                        "Amount": 124,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Arid Plains",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 105,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Blacksmith",
+                        "Amount": 3,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Mountains",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 227,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Valley",
+                "Buildings": [
+                    {
+                        "Type": "House",
+                        "Amount": 190,
+                        "Tier": 6
+                    },
+                    {
+                        "Type": "Magic Emporium",
+                        "Amount": 40,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "School",
+                        "Amount": 167,
+                        "Tier": 3
+                    },
+                    {
+                        "Type": "Statue",
+                        "Amount": 50,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Library",
+                        "Amount": 32,
+                        "Tier": 3
+                    }
+                ]
+            },
+            {
+                "Name": "Jungle",
+                "Buildings": [
+                    {
+                        "Type": "Orchard",
+                        "Amount": 300,
+                        "Tier": 1
+                    },
+                    {
+                        "Type": "Woodcutter",
+                        "Amount": 4,
+                        "Tier": 4
+                    },
+                    {
+                        "Type": "Carpenter",
+                        "Amount": 11,
+                        "Tier": 4
+                    }
+                ]
+            },
+            {
+                "Name": "Snowlands",
+                "Buildings": [
+                    {
+                        "Type": "Storehouse",
+                        "Amount": 40,
+                        "Tier": 3
+                    }
+                ]
+            }
+        ]
+    }    
+]    
