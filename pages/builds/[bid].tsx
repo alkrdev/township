@@ -21,10 +21,6 @@ const Build = () => {
         }
     }, [bid])
 
-    useEffect(() => {
-       console.log(data)
-    }, [data])
-
     return (       
         <div className="p-10">
             <Head>
