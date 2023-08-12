@@ -9,7 +9,7 @@ const handler = async function (
   res: NextApiResponse
 ) {
   try {
-    const filePath = path.join(process.cwd(), 'data.json');
+    const filePath = path.join(process.cwd(), 'series.json');
     const jsonData = await fsPromises.readFile(filePath, 'utf-8');
     const objectData = JSON.parse(jsonData);
 

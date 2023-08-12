@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "SERIES A",
+        "Order": ["3BNJ", "BXDE"]
+    },
+    {
+        "Title": "SERIES B",
+        "Order": ["3BNJ", "ADR5"]
+    },
+    {
+        "Title": "SERIES C",
+        "Order": ["ADR5", "BXDE"]
+    }
+]

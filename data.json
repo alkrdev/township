@@ -1,6 +1,7 @@
 [
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "3BNJ",
+        "BuildTitle": "BUILD 1",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -167,7 +168,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "BXDE",
+        "BuildTitle": "BUILD 2",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -334,7 +336,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR1",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -501,7 +504,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR2",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -668,7 +672,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR3",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -835,7 +840,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR4",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -1002,7 +1008,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR5",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -1169,7 +1176,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR6",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -1336,7 +1344,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR7",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -1503,7 +1512,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR8",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -1670,7 +1680,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR9",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -1837,7 +1848,8 @@
         ]
     },
     {
-        "BuildTitle": "(L109) T11/GP-A05",
+        "Id": "ADR10",
+        "BuildTitle": "BUILD 3",
         "Map": "11",
         "Worship": "Terran",
         "Areas": [
@@ -2003,4 +2015,4 @@
             }
         ]
     }    
-]    
+]
